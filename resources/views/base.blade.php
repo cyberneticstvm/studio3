@@ -8,21 +8,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="keywords" content="HTML5 Template Archo onepage themeforest" />
-    <meta name="description" content="Archo - Onepage Multi-Purpose HTML5 Template" />
-    <meta name="author" content="" />
+    <meta name="description" content="Studio1 Creators" />
+    <meta name="author" content="cybernetics.me" />
 
     <!-- Title  -->
-    <title>Archo</title>
+    <title>Studio1 Creators</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" />
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=IBM+Plex+Sans+Arabic:wght@300&family=Montserrat:wght@300&display=swap" rel="stylesheet">
 
     <!-- Plugins -->
     <link rel="stylesheet" href="css/plugins.css" />
@@ -38,7 +36,7 @@
     <!-- ==================== Start Loading ==================== -->
 
     <div id="preloader">
-        <div class="loading-text">Studio1 Creator</div>
+        <div class="loading-text">Studio1 Creators</div>
     </div>
 
     <!-- ==================== End Loading ==================== -->
@@ -70,7 +68,7 @@
 
             <!-- Logo -->
             <a class="logo" href="#">
-                <img src="img/logo-light.png" alt="logo">
+                <img src="img/logo-white-small.png" alt="logo">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"

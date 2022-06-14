@@ -1816,7 +1816,7 @@ body {
   .about .exp-content {
     position: relative;
     z-index: 2; }
-    .about .exp-content:after {
+    /*.about .exp-content:after {
       content: '';
       width: 200px;
       height: 250px;
@@ -1824,7 +1824,7 @@ body {
       top: -40px;
       right: -40px;
       border: 10px solid #fafafa;
-      z-index: -1; }
+      z-index: -1; }*/
     .about .exp-content.nopat:after {
       display: none; }
     .about .exp-content ul {
@@ -2053,7 +2053,7 @@ body {
 /* ====================== [ Start Numbers & Counter  ] ====================== */
 .numbers .item {
   position: relative; }
-  .numbers .item:after {
+  /*.numbers .item:after {
     width: 35px;
     height: 35px;
     bottom: 0;
@@ -2063,7 +2063,7 @@ body {
     height: 0;
     border-top: 35px solid transparent;
     border-right: 35px solid #f7f7f7;
-    bottom: 35px; }
+    bottom: 35px; }*/
   .numbers .item:before, .numbers .item:after {
     content: '';
     position: absolute;
@@ -2743,7 +2743,7 @@ body {
   .team .team-container {
     width: 140%;
     position: relative; }
-    .team .team-container:after {
+    /*.team .team-container:after {
       content: '';
       position: absolute;
       top: -120px;
@@ -2751,7 +2751,7 @@ body {
       right: 0;
       width: 80%;
       background: #f8f4f3;
-      z-index: -1; }
+      z-index: -1; }*/
   .team .item {
     padding: 0 15px; }
     .team .item .img {

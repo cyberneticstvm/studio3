@@ -28,7 +28,7 @@ $(function () {
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/studio1-creators-logo.png');
+            logo.attr('src', 'img/logo-dark-small.png');
 
         } else {
 

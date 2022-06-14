@@ -30,7 +30,7 @@
 
 </head>
 
-<body>
+<body class="bg-dark">
 
 
     <!-- ==================== Start Loading ==================== -->
@@ -141,7 +141,7 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="img/logo-light.png" alt="">
+                                <img src="img/logo-white-small.png" alt="">
                             </a>
                         </div>
                         <p>Our team takes over everything, from an idea and concept development to realization.</p>
@@ -200,7 +200,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="text-left">
-                            <p>© 2020, Archo Template. Made with passion by <a href="https://themeforest.net/user/ui-themez">UI-ThemeZ</a>.</p>
+                            <p>© {{ date('Y') }}, Studio1 Creators.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">

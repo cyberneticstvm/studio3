@@ -169,7 +169,7 @@
 
 <!-- ==================== Start Services ==================== -->
 
-<section class="services section-padding bg-gray">
+<section class="services section-padding bg-dark">
     <div class="container">
         <div class="section-head text-center">
             <div class="row justify-content-center">
@@ -179,32 +179,74 @@
                 </div>
             </div>
         </div>
-        <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s" data-background="img/slid/2.jpg">
+        <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
 
-            <div class="col-lg-3 col-md-6 item-bx">
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">01</h2>
-                <h6 class="mb-20">Architecture</h6>
+                <h6 class="mb-20">Architectural<br>Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">02</h2>
-                <h6 class="mb-20">Interior Design</h6>
+                <h6 class="mb-20">Interior<br>Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">03</h2>
-                <h6 class="mb-20">3D Modeling</h6>
+                <h6 class="mb-20">Restaurants <br>& Cafe</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">04</h2>
-                <h6 class="mb-20">Furniture Design</h6>
+                <h6 class="mb-20">Hospital/Clinic<br>Services</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">05</h2>
+                <h6 class="mb-20">Luxury</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">06</h2>
+                <h6 class="mb-20">Retail</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">07</h2>
+                <h6 class="mb-20">Hospitality</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">08</h2>
+                <h6 class="mb-20">Fit-out Services</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">09</h2>
+                <h6 class="mb-20">Spa & Gym</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
+            </div>
+            
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h2 class="custom-font numb">10</h2>
+                <h6 class="mb-20">Swimming Pool</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
@@ -248,33 +290,33 @@
 
                 <!-- gallery item -->
                 <div class="items theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/01.jpg">
+                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/01.webp">
                         <a href="#0">
                             <div class="item-img-overlay"></div>
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Fantastic interior</h5>
-                        <span>Interior Design</span>
+                        <h5>Fantastic Exterior</h5>
+                        <span>Exterior Design</span>
                     </div>
                 </div>
 
                 <!-- gallery item -->
                 <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/02.jpg">
+                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/02.webp">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Choose Your Dream</h5>
-                        <span>Architecture</span>
+                        <h5>Hotel Interior</h5>
+                        <span>Interior Design</span>
                     </div>
                 </div>
 
                 <!-- gallery item -->
                 <div class="items residential mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/03.jpg">
+                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/03.webp">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>
@@ -287,13 +329,13 @@
 
                 <!-- gallery item -->
                 <div class="items interior theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/04.jpg">
+                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/04.webp">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Creative Spaces</h5>
+                        <h5>Creative Interior</h5>
                         <span>Interior Design</span>
                     </div>
                 </div>
@@ -310,7 +352,7 @@
 
 <!-- ==================== Start Skills Circle ==================== -->
 
-<section class="skills-circle section-padding bg-img parallaxie" data-background="img/1.jpg" data-overlay-dark="7">
+<section class="skills-circle section-padding bg-img parallaxie" data-background="img/0001.webp" data-overlay-dark="7">
     <div class="container">
         <div class="section-head text-center">
             <div class="row justify-content-center">
@@ -467,10 +509,10 @@
                         ipsum dolor sit amet, consectetur
                         adipisicing elit mauris vitae consequat nibh, vitae interdum mi.</p>
                     <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
-                        <span class="prev">
+                        <span class="prev bg-dark">
                             <i class="fas fa-long-arrow-alt-left"></i>
                         </span>
-                        <span class="next">
+                        <span class="next bg-dark">
                             <i class="fas fa-long-arrow-alt-right"></i>
                         </span>
                     </div>
@@ -572,101 +614,10 @@
             </div>
         </div>
     </div>
-    <div class="dots-half bg-img bg-repeat" data-background="img/dots.png"></div>
+    <!--<div class="dots-half bg-img bg-repeat" data-background="img/dots.png"></div>-->
 </section>
 
 <!-- ==================== End Team ==================== -->
-
-
-
-<!-- ==================== Start Blog ==================== -->
-
-<section class="blog-grid section-padding mb-50">
-    <div class="container">
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Latest News</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Blogs</h4>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-
-            <div class="col-lg-4">
-                <div class="item wow fadeInUp md-mb50" data-wow-delay=".3s">
-                    <div class="post-img">
-                        <div class="img">
-                            <img src="img/blog/1.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="cont">
-                        <div class="info">
-                            <a href="#0">Alex Smith</a>
-                            <a href="#0">Aug 06 2019</a>
-                        </div>
-
-                        <h5 class="playfont"><a href="#0">In Good Taste: Mark Finlay Architects and Interiors</a>
-                        </h5>
-
-                        <a href="blog-details.html" class="more">
-                            <span class="custom-font">Read More</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="item wow fadeInUp md-mb50" data-wow-delay=".1s">
-                    <div class="post-img">
-                        <div class="img">
-                            <img src="img/blog/2.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="cont">
-                        <div class="info">
-                            <a href="#0">Alex Smith</a>
-                            <a href="#0">Aug 06 2019</a>
-                        </div>
-
-                        <h5 class="playfont"><a href="#0">Five Things You Should Know About Modern Furniture.</a>
-                        </h5>
-
-                        <a href="blog-details.html" class="more">
-                            <span class="custom-font">Read More</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4">
-                <div class="item wow fadeInUp" data-wow-delay=".5s">
-                    <div class="post-img">
-                        <div class="img">
-                            <img src="img/blog/3.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="cont">
-                        <div class="info">
-                            <a href="#0">Alex Smith</a>
-                            <a href="#0">Aug 06 2019</a>
-                        </div>
-
-                        <h5 class="playfont"><a href="#0">What it's like to be an interior designer?</a></h5>
-
-                        <a href="blog-details.html" class="more">
-                            <span class="custom-font">Read More</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== End Blog ==================== -->
-
-
 
 <!-- ==================== Start contact ==================== -->
 
@@ -707,7 +658,7 @@
     <div class="contact-map">
         <div class="map" id="ieatmaps"></div>
     </div>
-    <div class="bg-img" data-background="img/2.jpg"></div>
+    <div class="bg-img" data-background="img/002.webp"></div>
 </section>
 
 <!-- ==================== End contact ==================== -->

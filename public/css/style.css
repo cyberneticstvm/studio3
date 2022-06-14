@@ -1434,7 +1434,7 @@ body {
         color: #b19777; }
     .slider .parallax-slider .caption h1 {
       font-size: 65px;
-      font-weight: 700;
+      font-weight: 300;
       letter-spacing: 4px;
       color: #fff;
       opacity: 0;
@@ -1446,8 +1446,10 @@ body {
       transition: opacity .5s,
  visibility .5s; }
       .slider .parallax-slider .caption h1 span {
-        font-weight: 700; }
+        font-weight: 300; }
     .slider .parallax-slider .caption p {
+      font-family: 'Roboto', sans-serif;
+      font-size: 20px;
       color: #eee;
       opacity: 0;
       -webkit-transform: translateY(20px);
@@ -1966,10 +1968,12 @@ body {
   .services .item-bx:last-of-type {
     border-right: 1px solid #eee; }
   .services .item-bx:hover {
-    background-color: rgba(0, 0, 0, 0.6);
-    color: #fff; }
+    background-color: #fff !important;
+    color: #000 !important; }
     .services .item-bx:hover p {
-      color: #eee; }
+      color: #000; }
+      .services .item-bx:hover h6 {
+        color: #000; }
     .services .item-bx:hover .more {
       color: #b19777; }
   .services .item-bx .numb {

@@ -12,7 +12,7 @@
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
                                 <div class="caption hmone">
-                                    <h5 class="thin custom-font">Innovative</h5>
+                                    <h5 class="thin">Innovative</h5>
                                     <h1 data-splitting><a href="#0">Architecture</a>
                                     </h1>
                                     <p class="mt-10">Right design and right ideas matter a lot of in interior design
@@ -185,7 +185,7 @@
                 <h2 class="custom-font numb">01</h2>
                 <h6 class="mb-20">Architectural<br>Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
+                <a href="#0" class="more custom-font mt-30 wow">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">

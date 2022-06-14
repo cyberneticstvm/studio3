@@ -20,7 +20,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=IBM+Plex+Sans+Arabic:wght@300&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@100&display=swap" rel="stylesheet">
 
     <!-- Plugins -->
     <link rel="stylesheet" href="css/plugins.css" />
@@ -68,7 +68,7 @@
 
             <!-- Logo -->
             <a class="logo" href="#">
-                <img src="img/logo-white-small.png" alt="logo">
+                <img src="img/logo-white-small-1.png" alt="logo">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -141,7 +141,7 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="img/logo-white-small.png" alt="">
+                                <img src="img/logo-white-small-1.png" alt="">
                             </a>
                         </div>
                         <p>Our team takes over everything, from an idea and concept development to realization.</p>

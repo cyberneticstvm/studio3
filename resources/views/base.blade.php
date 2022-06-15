@@ -67,7 +67,7 @@
         <div class="container">
 
             <!-- Logo -->
-            <a class="logo" href="#">
+            <a class="logo" href="/">
                 <img src="img/logo-white-small-1.png" alt="logo">
             </a>
 
@@ -80,30 +80,30 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/" role="button"
                             aria-haspopup="true" aria-expanded="false">Home</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="index.html">Main Home</a>
-                            <a class="dropdown-item" href="index3.html">Architecture</a>
-                            <a class="dropdown-item" href="index2.html">Interior Design</a>
+                            <a class="dropdown-item" href="/">Main Home</a>
+                            <a class="dropdown-item" href="/">Architecture</a>
+                            <a class="dropdown-item" href="/">Interior Design</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="/">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio-mas2.html">Portfolio</a>
+                        <a class="nav-link" href="/">Our Services</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Blog</a>
+                            aria-haspopup="true" aria-expanded="false">Our Projects</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="blog.html">Blogs</a>
-                            <a class="dropdown-item" href="blog-details.html">Post Details</a>
+                            <a class="dropdown-item" href="/">Blogs</a>
+                            <a class="dropdown-item" href="/">Post Details</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
+                        <a class="nav-link" href="/">Contact</a>
                     </li>
                 </ul>
                 <div class="social-icon">

@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/slider2.webp" data-overlay-dark="5">
+                <div class="bg-img valign" data-background="img/slid/slider5.webp" data-overlay-dark="5">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">

@@ -47,6 +47,13 @@
 
 ---------------------------------------------------------------- */
 /* ====================== [ Start Typography  ] ====================== */
+@font-face {
+  font-family: 'gotham';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/fonts/Gotham-Light.otf');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -1413,6 +1420,9 @@ body {
       -webkit-transform: translateY(0);
       -ms-transform: translateY(0);
       transform: translateY(0); }
+      .thin{
+        font-family: gotham;
+      }
     .slider .parallax-slider .caption .thin {
       color: #b19777;
       font-size: 30px;

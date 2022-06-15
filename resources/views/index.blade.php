@@ -481,10 +481,10 @@
                 </div>
                 <div class="navs mt-30">
                     <span class="prev">
-                        <i class="fas fa-long-arrow-alt-left"></i>
+                        <i class="fas fa-long-arrow-alt-left text-dark"></i>
                     </span>
                     <span class="next">
-                        <i class="fas fa-long-arrow-alt-right"></i>
+                        <i class="fas fa-long-arrow-alt-right text-dark"></i>
                     </span>
                 </div>
             </div>

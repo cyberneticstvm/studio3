@@ -183,74 +183,31 @@
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">01</h2>
-                <h6 class="mb-20">Architectural<br>Design</h6>
+                <h6 class="mb-20">Interior Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30 wow">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">02</h2>
-                <h6 class="mb-20">Interior<br>Design</h6>
+                <h6 class="mb-20">Architectural Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">03</h2>
-                <h6 class="mb-20">Restaurants <br>& Cafe</h6>
+                <h6 class="mb-20">Landscape</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">04</h2>
-                <h6 class="mb-20">Hospital/Clinic<br>Services</h6>
+                <h6 class="mb-20">FF & E</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">05</h2>
-                <h6 class="mb-20">Luxury</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">06</h2>
-                <h6 class="mb-20">Retail</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">07</h2>
-                <h6 class="mb-20">Hospitality</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">08</h2>
-                <h6 class="mb-20">Fit-out Services</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">09</h2>
-                <h6 class="mb-20">Spa & Gym</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-            
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">10</h2>
-                <h6 class="mb-20">Swimming Pool</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
-            </div>
-
         </div>
     </div>
 </section>

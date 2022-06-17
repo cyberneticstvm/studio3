@@ -79,27 +79,28 @@
             <!-- navbar links -->
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">About Us</a>
+                    </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/" role="button"
-                            aria-haspopup="true" aria-expanded="false">Home</a>
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                            aria-haspopup="true" aria-expanded="false">Our Services</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="/">Main Home</a>
-                            <a class="dropdown-item" href="/">Architecture</a>
                             <a class="dropdown-item" href="/">Interior Design</a>
+                            <a class="dropdown-item" href="/">Architectural Design</a>
+                            <a class="dropdown-item" href="/">Landscape</a>
+                            <a class="dropdown-item" href="/">FF & E</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/">Our Services</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
                             aria-haspopup="true" aria-expanded="false">Our Projects</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="/">Blogs</a>
-                            <a class="dropdown-item" href="/">Post Details</a>
+                            <a class="dropdown-item" href="/">project 1</a>
+                            <a class="dropdown-item" href="/">Project 2</a>
                         </div>
                     </li>
                     <li class="nav-item">

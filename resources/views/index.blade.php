@@ -119,11 +119,11 @@
                     <div class="img bg-img wow imago" data-background="img/exp.jpg">
                         <div class="since custom-font">
                             <span>Since</span>
-                            <span>1999</span>
+                            <span>2020</span>
                         </div>
                         <div class="years custom-font">
-                            <h2>21</h2>
-                            <h5>Years Experience</h5>
+                            <h2>STUDIO1</h2>
+                            <!--<h5>Years Experience</h5>-->
                         </div>
                     </div>
                 </div>
@@ -139,20 +139,20 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="item">
-                                    <h3><span class="nbr custom-font">352</span></h3>
-                                    <h6>Projects Completed</h6>
+                                    <!--<h3><span class="nbr custom-font">352</span></h3>
+                                    <h6>Projects Completed</h6>-->
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item">
-                                    <h3><span class="nbr custom-font">567</span></h3>
-                                    <h6>Satisfied Clients</h6>
+                                    <!--<h3><span class="nbr custom-font">567</span></h3>
+                                    <h6>Satisfied Clients</h6>-->
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item">
-                                    <h3><span class="nbr custom-font">17</span></h3>
-                                    <h6>Awards Won</h6>
+                                    <!--<h3><span class="nbr custom-font">17</span></h3>
+                                    <h6>Awards Won</h6>-->
                                 </div>
                             </div>
                         </div>
@@ -182,28 +182,28 @@
         <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">01</h2>
+                <!--<h2 class="custom-font numb">01</h2>-->
                 <h6 class="mb-20">Interior Design</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30 wow">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">02</h2>
+                <!--<h2 class="custom-font numb">02</h2>-->
                 <h6 class="mb-20">Architectural Design</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">03</h2>
+                <!--<h2 class="custom-font numb">03</h2>-->
                 <h6 class="mb-20">Landscape</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h2 class="custom-font numb">04</h2>
+                <!--<h2 class="custom-font numb">04</h2>-->
                 <h6 class="mb-20">Fitout Services</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
@@ -225,7 +225,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
                         <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Works</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Portfolio</h4>
+                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Projects</h4>
                     </div>
                 </div>
             </div>
@@ -237,8 +237,9 @@
                 <div class="filter bg-img bg-repeat" data-background="img/line-pattern1.png">
                     <span data-filter='*' class="active">All</span>
                     <span data-filter='.interior'>Interior</span>
-                    <span data-filter='.theaters'>Theaters</span>
-                    <span data-filter='.residential'>Residential</span>
+                    <span data-filter='.theaters'>Architectural</span>
+                    <span data-filter='.residential'>Landscape</span>
+                    <span data-filter='.residential'>Fitouts</span>
                 </div>
             </div>
 
@@ -314,41 +315,41 @@
         <div class="section-head text-center">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Skills</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Best Skills</h4>
+                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Expertise</h6>
+                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Expertise</h4>
                 </div>
             </div>
         </div>
         <div class="row wow fadeInUp" data-wow-delay=".3s">
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
+                    <div class="skill" data-value="0.95">
+                        <span class="custom-font">95%</span>
+                        <h6>INTERIOR</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="item text-center">
+                    <div class="skill" data-value="0.9">
+                        <span class="custom-font">92%</span>
+                        <h6>ARCHITECTURAL</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="item text-center">
                     <div class="skill" data-value="0.9">
                         <span class="custom-font">90%</span>
-                        <h6>ARCHITECTURE</h6>
+                        <h6>LANDSCAPE</h6>
                     </div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
-                    <div class="skill" data-value="0.75">
-                        <span class="custom-font">75%</span>
-                        <h6>INTERIOR DESIGN</h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item text-center">
-                    <div class="skill" data-value="0.88">
-                        <span class="custom-font">88%</span>
-                        <h6>INOVATION</h6>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="item text-center">
-                    <div class="skill" data-value="0.83">
-                        <span class="custom-font">83%</span>
-                        <h6>CONTEMPORARY IDEAS</h6>
+                    <div class="skill" data-value="0.9">
+                        <span class="custom-font">90%</span>
+                        <h6>FITOUTS</h6>
                     </div>
                 </div>
             </div>

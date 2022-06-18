@@ -92,7 +92,7 @@
                             <a class="dropdown-item" href="/">Interior Design</a>
                             <a class="dropdown-item" href="/">Architectural Design</a>
                             <a class="dropdown-item" href="/">Landscape</a>
-                            <a class="dropdown-item" href="/">FF & E</a>
+                            <a class="dropdown-item" href="/">Fitout Services</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">

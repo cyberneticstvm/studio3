@@ -93,7 +93,7 @@ h5 {
   font-size: 25px; }
 
 h6 {
-  font-size: 18px; }
+  font-size: 15px; }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
@@ -1816,7 +1816,7 @@ body {
       left: 70px;
       bottom: 70px; }
       .about .exp-img .img .years h2 {
-        font-size: 140px;
+        font-size: 50px;
         font-weight: 800;
         background: url(../img/exp.jpg) no-repeat;
         background-position: 18% 65%;
@@ -3869,3 +3869,11 @@ body {
     top: -25px; } }
 
 /* ====================== [ End Responsive ] ====================== */
+
+.navbar .dropdown-menu.show{
+  background-color: #000;
+  opacity: .6;
+}
+.dropdown-item{
+  color: #fff;
+}

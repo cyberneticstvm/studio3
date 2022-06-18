@@ -204,7 +204,7 @@
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h2 class="custom-font numb">04</h2>
-                <h6 class="mb-20">FF & E</h6>
+                <h6 class="mb-20">Fitout Services</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
                 <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>

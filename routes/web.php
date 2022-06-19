@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/services/interior/', function () {
     return view('services.interior');
 });
+Route::get('/projects/interior/', function () {
+    return view('projects.interior');
+});

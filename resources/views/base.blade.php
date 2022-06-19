@@ -97,7 +97,7 @@
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
                             aria-haspopup="true" aria-expanded="false">Our Projects</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="/">project 1</a>
+                            <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
                             <a class="dropdown-item" href="/">Project 2</a>
                         </div>
                     </li>

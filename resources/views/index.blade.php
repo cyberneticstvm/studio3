@@ -248,7 +248,7 @@
 
                 <!-- gallery item -->
                 <div class="items theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/01.webp">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/01.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay"></div>
                         </a>
@@ -261,7 +261,7 @@
 
                 <!-- gallery item -->
                 <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/02.webp">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/02.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>
@@ -274,7 +274,7 @@
 
                 <!-- gallery item -->
                 <div class="items residential mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/03.webp">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/03.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>
@@ -287,7 +287,7 @@
 
                 <!-- gallery item -->
                 <div class="items interior theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/04.webp">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/04.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>

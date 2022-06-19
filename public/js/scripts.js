@@ -28,12 +28,12 @@ $(function () {
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/logo-dark-small-1.png');
+            logo.attr('src', '/img/logo-dark-small-1.png');
 
         } else {
 
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/logo-white-small-1.png');
+            logo.attr('src', '/img/logo-white-small-1.png');
         }
     });
 
@@ -337,7 +337,7 @@ $(function () {
             value: myVal,
             thickness: 5,
             size: 200,
-            fill: { color: "#b19777" }
+            fill: { color: "#ed174d" }
         });
 
     });
@@ -525,3 +525,4 @@ function mousecursor() {
 $(function () {
     mousecursor();
 });
+

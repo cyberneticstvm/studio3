@@ -7,7 +7,7 @@
     <div class="swiper-container parallax-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/slider6.webp" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="{{ '/img/slid/slider6.webp' }}" data-overlay-dark="6">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/slider5.webp" data-overlay-dark="5">
+                <div class="bg-img valign" data-background="{{ '/img/slid/slider5.webp' }}" data-overlay-dark="5">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/slider7.webp" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="{{ '/img/slid/slider7.webp' }}" data-overlay-dark="6">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="img/slid/slider8.webp" data-overlay-dark="5">
+                <div class="bg-img valign" data-background="{{ '/img/slid/slider8.webp' }}" data-overlay-dark="5">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -111,7 +111,7 @@
 
 <!-- ==================== Start about ==================== -->
 
-<section class="about section-padding">
+<section id="about" class="about section-padding">
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
@@ -579,7 +579,7 @@
 
 <!-- ==================== Start contact ==================== -->
 
-<section class="contact cont-map">
+<section id="contact" class="contact cont-map">
     <div class="container">
         <div class="row">
             <div class="col-lg-5 col-md-6 contact-form wow fadeInDown" data-wow-delay=".3s">

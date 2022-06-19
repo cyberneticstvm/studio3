@@ -15,7 +15,7 @@
     <title>Studio1 Creators</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="shortcut icon" href="{{ '/img/favicon.ico' }}" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,15 +23,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@100&display=swap" rel="stylesheet">
 
     <!-- Plugins -->
-    <link rel="stylesheet" href="css/plugins.css" />
+    <link rel="stylesheet" href="{{ '/css/plugins.css' }}" />
 
     <!-- Core Style Css -->
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="{{ '/css/style.css' }}" />
 
 </head>
 
 <body class="bg-dark">
-
 
     <!-- ==================== Start Loading ==================== -->
 
@@ -40,7 +39,6 @@
     </div>
 
     <!-- ==================== End Loading ==================== -->
-
 
     <!-- ==================== Start progress-scroll-button ==================== -->
 
@@ -68,7 +66,7 @@
 
             <!-- Logo -->
             <a class="logo" href="/">
-                <img src="img/logo-white-small-1.png" alt="logo">
+                <img src="{{ '/img/logo-white-small-1.png' }}" alt="logo">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -83,13 +81,13 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">About Us</a>
+                        <a class="nav-link" href="#about">About Us</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
                             aria-haspopup="true" aria-expanded="false">Our Services</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="/">Interior Design</a>
+                            <a class="dropdown-item" href="/services/interior/">Interior Design</a>
                             <a class="dropdown-item" href="/">Architectural Design</a>
                             <a class="dropdown-item" href="/">Landscape</a>
                             <a class="dropdown-item" href="/">Fitout Services</a>
@@ -104,7 +102,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Contact</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
                 </ul>
                 <div class="social-icon">
@@ -222,17 +220,17 @@
 
 
     <!-- jQuery -->
-    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="{{ '/js/jquery-3.0.0.min.js' }}"></script>
     <script src="js/jquery-migrate-3.0.0.min.js"></script>
 
     <!-- plugins -->
-    <script src="js/plugins.js"></script>
+    <script src="{{ '/js/plugins.js' }}"></script>
 
     <!-- custom scripts -->
-    <script src="js/scripts.js"></script>
+    <script src="{{ '/js/scripts.js' }}"></script>
 
     <!-- Map -->
-    <script src="js/map.js"></script>
+    <script src="{{ '/js/map.js' }}"></script>
 
     <!-- google map api -->
     <script async defer

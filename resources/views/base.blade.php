@@ -28,6 +28,11 @@
     <!-- Core Style Css -->
     <link rel="stylesheet" href="{{ '/css/style.css' }}" />
 
+    <link rel="stylesheet" href="{{ '/dist/simple-lightbox.min.css' }}" />
+    
+
+
+
 </head>
 
 <body class="bg-dark">
@@ -98,7 +103,9 @@
                             aria-haspopup="true" aria-expanded="false">Our Projects</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
-                            <a class="dropdown-item" href="/">Project 2</a>
+                            <a class="dropdown-item" href="/">Architectural Design</a>
+                            <a class="dropdown-item" href="/">Landscape</a>
+                            <a class="dropdown-item" href="/">Fitout</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -220,11 +227,15 @@
 
 
     <!-- jQuery -->
-    <script src="{{ '/js/jquery-3.0.0.min.js' }}"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="js/jquery-migrate-3.0.0.min.js"></script>
 
     <!-- plugins -->
     <script src="{{ '/js/plugins.js' }}"></script>
+
+    <!-- As A Vanilla JavaScript Plugin -->
+    <script src="{{ '/dist/simple-lightbox.jquery.min.js' }}"></script>
+
 
     <!-- custom scripts -->
     <script src="{{ '/js/scripts.js' }}"></script>
@@ -236,7 +247,11 @@
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUU5FZiF5WLFFfgIC1n64Zr0zfpQZjBBg&callback=initMap">
         </script>
-
+    <script>
+        $(function(){
+            $(".gallery123 a").simpleLightbox();
+        });        
+    </script>
 </body>
 
 </html>

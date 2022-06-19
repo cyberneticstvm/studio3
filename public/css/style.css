@@ -192,7 +192,9 @@ a, span {
 .section-head1{
   margin-bottom: 25px;
 }
-
+.m-2{
+  margin: 2px;
+}
 .head-pt {
   padding: 80px 0 0; }
 

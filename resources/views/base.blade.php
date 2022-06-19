@@ -147,7 +147,7 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="img/logo-white-small-1.png" alt="">
+                                <img src="{{ '/img/logo-white-small-1.png' }}" alt="">
                             </a>
                         </div>
                         <p>Our team takes over everything, from an idea and concept development to realization.</p>

@@ -15,17 +15,23 @@
 </section>
 <div class="container mb-25">
     <div class="gallery123"> 
-        <a href="{{ '/img/slid/interiors/interior1.webp' }}" class="big" rel="rel1">
+        <a href="{{ '/img/slid/interiors/interior1.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/interiors/thumb1.webp' }}" alt="" title="Project1">
         </a>
-        <a href="{{ '/img/slid/interiors/interior2.webp' }}" class="big" rel="rel1">
+        <a href="{{ '/img/slid/interiors/interior2.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/interiors/thumb2.webp' }}" alt="" title="Project1">
         </a>
-        <a href="{{ '/img/slid/interiors/interior3.webp' }}" class="big" rel="rel1">
-            <img src="{{ '/img/slid/interiors/thumb3.webp' }}" alt="" title="Project1">
+        <a href="{{ '/img/slid/interiors/interior5.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb5.webp' }}" alt="" title="Project1">
         </a>
-        <a href="{{ '/img/slid/interiors/interior4.webp' }}" class="big mt-5" rel="rel1">
+        <a href="{{ '/img/slid/interiors/interior4.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/interiors/thumb4.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/interiors/interior6.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb6.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/interiors/interior7.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb7.webp' }}" alt="" title="Project1">
         </a>   
     </div>
 </div>

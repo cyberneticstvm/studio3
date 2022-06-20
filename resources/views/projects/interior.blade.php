@@ -13,7 +13,7 @@
         </div>
     </div>
 </section>
-<div class="container mb-25">
+<div class="container mb-50">
     <div class="gallery123"> 
         <a href="{{ '/img/slid/interiors/interior1.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/interiors/thumb1.webp' }}" alt="" title="Project1">

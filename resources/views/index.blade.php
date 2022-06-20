@@ -159,11 +159,25 @@
 
 <!-- ==================== End about ==================== -->
 
+<section class="services bg-dark">
+    <div class="container">
+        <div class="section-head text-center">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-8 col-sm-10">
+                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Our Talents</h6>
+                    <h4 class="wow flipInX" data-wow-delay=".5s">Why Choose Us</h4>
+                </div>
+            </div>
+            <div class="row bord-box bg-img wow fadeInUp">
+                <div class="col-lg-12 col-md-12 mt-50">
+                    <p>Our immense experience in the interior and architectural design market sectors gives us the advantage of overcoming challenges and leading effectively in terms of quality, delivery and price, developing partnerships and building positive camaraderie with other professionals and clients, ensuring the timely delivery of our Projects to the highest global standards and delivering quality work without issues within set scope and budget.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-
-<!-- ==================== Start Services ==================== -->
-
-<section class="services section-padding bg-dark">
+<section class="services bg-dark">
     <div class="container">
         <div class="section-head text-center">
             <div class="row justify-content-center">
@@ -202,8 +216,6 @@
     </div>
 </section>
 
-<!-- ==================== End Services ==================== -->
-
 
 
 <!-- ==================== Start works ==================== -->
@@ -222,7 +234,7 @@
         </div>
         <div class="row">
 
-            <!-- filter links -->
+            <!-- filter links 
             <div class="filtering text-center col-12 wow fadeInUp" data-wow-delay=".3s">
                 <div class="filter bg-img bg-repeat" data-background="img/line-pattern1.png">
                     <span data-filter='*' class="active">All</span>
@@ -231,7 +243,7 @@
                     <span data-filter='.residential'>Landscape</span>
                     <span data-filter='.residential'>Fitouts</span>
                 </div>
-            </div>
+            </div>-->
 
             <!-- gallery -->
             <div class="gallery twsty full-width">
@@ -244,8 +256,8 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Fantastic Exterior</h5>
-                        <span>Exterior Design</span>
+                        <h5>Architectural</h5>
+                        <span>Architectural Design</span>
                     </div>
                 </div>
 
@@ -257,7 +269,7 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Hotel Interior</h5>
+                        <h5>Interior</h5>
                         <span>Interior Design</span>
                     </div>
                 </div>
@@ -270,8 +282,8 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Luxury Villa</h5>
-                        <span>Architecture</span>
+                        <h5>Landscape</h5>
+                        <span>Landscape Design</span>
                     </div>
                 </div>
 
@@ -283,8 +295,8 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5>Creative Interior</h5>
-                        <span>Interior Design</span>
+                        <h5>Fitout</h5>
+                        <span>Fitout Services</span>
                     </div>
                 </div>
 
@@ -608,7 +620,7 @@
         </div>
     </div>
     <div class="contact-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.986111620221!2d55.087222972550585!3d24.98780158178485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f127c765bfb7b%3A0xac18e62af75d21df!2s!5e0!3m2!1sen!2sin!4v1655724052368!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.986111620221!2d55.087222972550585!3d24.98780158178485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f127c765bfb7b%3A0xac18e62af75d21df!2s!5e0!3m2!1sen!2sin!4v1655724052368!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <div class="bg-img" data-background="{{ '/img/002.webp' }}"></div>
 </section>

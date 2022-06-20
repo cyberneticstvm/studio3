@@ -13,7 +13,7 @@
         </div>
     </div>
 </section>
-<section id="about" class="about">
+<section id="about" class="about mb-50">
     <div class="container">
         <div class="row">
             <div class="col-lg-5">

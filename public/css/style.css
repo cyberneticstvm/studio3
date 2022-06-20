@@ -98,7 +98,7 @@ h6 {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   line-height: 1.4;
-  font-weight: 600; }
+  /*font-weight: 600;*/ }
 
 p {
   color: #888;
@@ -1473,8 +1473,7 @@ body {
       .slider .parallax-slider .caption h1 span {
         font-weight: 300; }
     .slider .parallax-slider .caption p {
-      font-family: 'Roboto', sans-serif;
-      line-height: 17px;
+      font-family: gotham;
       font-size: 15px;
       font-weight: normal;
       color: #eee;
@@ -1994,9 +1993,6 @@ body {
   transition: all .4s; }
   .services .item-bx:last-of-type {
     border-right: 1px solid #eee; }
-  .services .item-bx:hover {
-    background-color: #fff !important;
-    color: #000 !important; }
     .services .item-bx:hover p {
       color: #000; }
       .services .item-bx:hover h6 {
@@ -3892,6 +3888,15 @@ body {
 .dropdown-item{
   color: #fff;
 }
-.item-bx:hover{
-  transform: rotate(360deg);
+.item-bx h6:hover{
+  animation: rotation 2s;
+  color: #000;
+}
+@keyframes rotation {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
 }

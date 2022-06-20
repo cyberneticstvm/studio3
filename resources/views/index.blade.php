@@ -46,7 +46,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="bg-img valign" data-background="{{ '/img/slid/slider7.webp' }}" data-overlay-dark="6">
+                <div class="bg-img valign" data-background="{{ '/img/slid/slider9.webp' }}" data-overlay-dark="6">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-10 offset-lg-1">
@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                    <div class="img bg-img wow imago" data-background="img/exp.webp">
+                    <div class="img bg-img wow imago" data-background="{{ '/img/exp.webp' }}">
                         <div class="since custom-font">
                             <span>Since</span>
                             <span>2020</span>
@@ -127,7 +127,7 @@
             <div class="col-lg-7 valign">
                 <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                     <h6 class="sub-title">About Us</h6>
-                    <h2 class="mb-20">Best Designers <br> Architectures for You.</h2>
+                    <h4 class="wow mb-20">Best Designers <br> Architectures for You.</h4>
                     <p>Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                     <div class="numbers mt-50">
                         <div class="row">
@@ -175,20 +175,20 @@
         </div>
         <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
 
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h6 class="mb-20 text-dark text-center">INTERIOR<br>DESIGNING</h6>
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h6 class="mb-20 text-white text-center">INTERIOR<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h6 class="mb-20 text-dark text-center">ARCHITECTURAL<br>DESIGNING</h6>
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h6 class="mb-20 text-white text-center">ARCHITECTURAL<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h6 class="mb-20 text-dark text-center">LANSACAPE<br>DESIGNING</h6>
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h6 class="mb-20 text-white text-center">LANDSCAPE<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx">
-                <h6 class="mb-20 text-dark text-center">FITOUT<br>SERVICES</h6>
+            <div class="col-lg-3 col-md-6 item-bx bg-dark">
+                <h6 class="mb-20 text-white text-center">FITOUT<br>SERVICES</h6>
             </div>
         </div>
     </div>
@@ -600,7 +600,7 @@
         </div>
     </div>
     <div class="contact-map">
-        <div class="map" id="ieatmaps"></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.986111620221!2d55.087222972550585!3d24.98780158178485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f127c765bfb7b%3A0xac18e62af75d21df!2s!5e0!3m2!1sen!2sin!4v1655724052368!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <div class="bg-img" data-background="img/002.webp"></div>
 </section>

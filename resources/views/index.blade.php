@@ -15,11 +15,10 @@
                                     <h5 class="thin">Innovative</h5>
                                     <h1 data-splitting><a href="#0">Architecture</a>
                                     </h1>
-                                    <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                        business. <br> a style that makes a statement.</p>
-                                    <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
+                                    <p class="mt-10">Architecture should speak of its time and place, but yearn for timelessness.<br>Our team put effort to accomplish it.</p>
+                                    <!--<a href="#0" class="btn-curve btn-bord btn-lit mt-30">
                                         <span>Read More</span>
-                                    </a>
+                                    </a>-->
                                 </div>
                             </div>
                         </div>
@@ -36,11 +35,10 @@
                                     <h1 data-splitting><a href="#0">
                                             and Modern
                                         </a></h1>
-                                    <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                        business. <br> a style that makes a statement.</p>
-                                    <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
+                                    <p class="mt-10">In this trendy world we remain classic but focus on the detailing and fulfill your modern<br>contemporary design which shows the aestheticism.</p>
+                                    <!--<a href="#0" class="btn-curve btn-bord btn-lit mt-30">
                                         <span>Read More</span>
-                                    </a>
+                                    </a>-->
                                 </div>
                             </div>
                         </div>
@@ -58,11 +56,10 @@
                                             Unique Design
                                         </a>
                                     </h1>
-                                    <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                        business. <br> a style that makes a statement.</p>
-                                    <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
+                                    <p class="mt-10">Design is intelligence made visible that creates value faster than costs.</p>
+                                    <!--<a href="#0" class="btn-curve btn-bord btn-lit mt-30">
                                         <span>Read More</span>
-                                    </a>
+                                    </a>-->
                                 </div>
                             </div>
                         </div>
@@ -79,11 +76,10 @@
                                     <h1 data-splitting><a href="#0">
                                             design agency
                                         </a></h1>
-                                    <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                        business. <br> a style that makes a statement.</p>
-                                    <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
+                                    <p class="mt-10"> We are professionals to explore a wide set of ideas and also create a shared vision<br>to move forward within a short amount of time. </p>
+                                    <!--<a href="#0" class="btn-curve btn-bord btn-lit mt-30">
                                         <span>Read More</span>
-                                    </a>
+                                    </a>-->
                                 </div>
                             </div>
                         </div>
@@ -116,7 +112,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                    <div class="img bg-img wow imago" data-background="img/exp.jpg">
+                    <div class="img bg-img wow imago" data-background="img/exp.webp">
                         <div class="since custom-font">
                             <span>Since</span>
                             <span>2020</span>
@@ -131,10 +127,8 @@
             <div class="col-lg-7 valign">
                 <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                     <h6 class="sub-title">About Us</h6>
-                    <h2 class="mb-20 playfont">Best Designers <br> Architectures for You.</h2>
-                    <p>Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum
-                        nisl. Cras mollis turpis a ipsum ultes, nec condimentum ipsum consequat. Mauris vitae
-                        consequat nibh, vitae interdum mi.</p>
+                    <h2 class="mb-20">Best Designers <br> Architectures for You.</h2>
+                    <p>Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                     <div class="numbers mt-50">
                         <div class="row">
                             <div class="col-md-4">
@@ -175,38 +169,26 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Services</h4>
+                    <h4 class="wow flipInX" data-wow-delay=".5s">Our Services</h4>
                 </div>
             </div>
         </div>
         <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
 
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <!--<h2 class="custom-font numb">01</h2>-->
-                <h6 class="mb-20">Interior Design</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30 wow">Read More</a>
+            <div class="col-lg-3 col-md-6 item-bx">
+                <h6 class="mb-20 text-dark text-center">INTERIOR<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <!--<h2 class="custom-font numb">02</h2>-->
-                <h6 class="mb-20">Architectural Design</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
+            <div class="col-lg-3 col-md-6 item-bx">
+                <h6 class="mb-20 text-dark text-center">ARCHITECTURAL<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <!--<h2 class="custom-font numb">03</h2>-->
-                <h6 class="mb-20">Landscape</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
+            <div class="col-lg-3 col-md-6 item-bx">
+                <h6 class="mb-20 text-dark text-center">LANSACAPE<br>DESIGNING</h6>
             </div>
 
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <!--<h2 class="custom-font numb">04</h2>-->
-                <h6 class="mb-20">Fitout Services</h6>
-                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more custom-font mt-30">Read More</a>
+            <div class="col-lg-3 col-md-6 item-bx">
+                <h6 class="mb-20 text-dark text-center">FITOUT<br>SERVICES</h6>
             </div>
         </div>
     </div>
@@ -225,7 +207,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
                         <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Works</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Projects</h4>
+                        <h4 class="wow flipInX" data-wow-delay=".5s">Our Projects</h4>
                     </div>
                 </div>
             </div>
@@ -316,7 +298,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Expertise</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">Expertise</h4>
+                    <h4 class="wow flipInX" data-wow-delay=".5s">Expertise</h4>
                 </div>
             </div>
         </div>
@@ -324,7 +306,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
                     <div class="skill" data-value="0.95">
-                        <span class="custom-font">95%</span>
+                        <span class="custom-font" id='skill1'>95%</span>
                         <h6>INTERIOR</h6>
                     </div>
                 </div>
@@ -332,7 +314,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
                     <div class="skill" data-value="0.9">
-                        <span class="custom-font">92%</span>
+                        <span class="custom-font" id='skill2'>92%</span>
                         <h6>ARCHITECTURAL</h6>
                     </div>
                 </div>
@@ -340,7 +322,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
                     <div class="skill" data-value="0.9">
-                        <span class="custom-font">90%</span>
+                        <span class="custom-font" id='skill3'>90%</span>
                         <h6>LANDSCAPE</h6>
                     </div>
                 </div>
@@ -348,7 +330,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="item text-center">
                     <div class="skill" data-value="0.9">
-                        <span class="custom-font">90%</span>
+                        <span class="custom-font" id='skill4'>90%</span>
                         <h6>FITOUTS</h6>
                     </div>
                 </div>
@@ -369,7 +351,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 col-sm-10">
                     <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Testimonials</h6>
-                    <h4 class="playfont wow flipInX" data-wow-delay=".5s">What People Says?</h4>
+                    <h4 class="wow flipInX" data-wow-delay=".5s">What People Says?</h4>
                 </div>
             </div>
         </div>
@@ -379,7 +361,7 @@
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
                         <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
+                            <p class="">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
                                 limit."
                             </p>
@@ -394,7 +376,7 @@
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
                         <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
+                            <p class="">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
                                 limit."
                             </p>
@@ -409,7 +391,7 @@
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
                         <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
+                            <p class="">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
                                 limit."
                             </p>
@@ -424,7 +406,7 @@
                     <div class="item wow fadeInUp" data-wow-delay=".3s">
                         <span class="quote-icon"><img src="img/clients/quote.svg" alt=""></span>
                         <div class="cont">
-                            <p class="playfont">"I just love their design for all stunning details. You must know
+                            <p class="">"I just love their design for all stunning details. You must know
                                 what can you do for a project before taking it, but with Archo, the sky is the
                                 limit."
                             </p>
@@ -595,6 +577,10 @@
 
                         <div class="form-group">
                             <input id="form_name" type="text" name="name" placeholder="Name" required="required">
+                        </div>
+
+                        <div class="form-group">
+                            <input id="form_contact" type="text" name="contact" placeholder="Contact Number" required="required">
                         </div>
 
                         <div class="form-group">

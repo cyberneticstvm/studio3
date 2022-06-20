@@ -81,7 +81,7 @@ h1 {
   font-size: 55px; }
 
 h2 {
-  font-size: 40px; }
+  font-size: 30px; }
 
 h3 {
   font-size: 35px; }
@@ -103,9 +103,11 @@ h1, h2, h3, h4, h5, h6 {
 p {
   color: #888;
   font-size: 15px;
-  font-weight: 400;
-  line-height: 2;
-  margin: 0; }
+  font-weight: normal;
+  margin: 0; 
+  font-family: gotham;
+  text-align: justify;
+}
 
 a, span {
   display: inline-block; }
@@ -1831,7 +1833,7 @@ body {
       .about .exp-img .img .years h2 {
         font-size: 50px;
         font-weight: 800;
-        background: url(../img/exp.jpg) no-repeat;
+        background: url(../img/exp.webp) no-repeat;
         background-position: 18% 65%;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -3889,4 +3891,7 @@ body {
 }
 .dropdown-item{
   color: #fff;
+}
+.item-bx:hover{
+  transform: rotate(360deg);
 }

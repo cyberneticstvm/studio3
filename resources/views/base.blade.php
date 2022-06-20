@@ -143,7 +143,7 @@
                                 <img src="{{ '/img/logo-white-small-1.png' }}" alt="">
                             </a>
                         </div>
-                        <p>Our team takes over everything, from an idea and concept development to realization.</p>
+                        <p>Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <div class="social-icon">
                             <a href="#0"><i class="fab fa-facebook-f"></i></a>
                             <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -158,9 +158,11 @@
                             <h6>Useful Links</h6>
                         </div>
                         <ul>
+                            <li><i class="fas fa-chevron-right"></i> <a href="#0">About Us</a></li>
                             <li><i class="fas fa-chevron-right"></i> <a href="#0">Interior Design</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Design Agency</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Mattress Shop</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Architectural</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Landscape</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Fitout Services</a></li>
                             <li><i class="fas fa-chevron-right"></i> <a href="#0">Contact Us</a></li>
                         </ul>
                     </div>
@@ -170,8 +172,7 @@
                         <div class="fothead">
                             <h6>Call</h6>
                         </div>
-                        <p>+7(111)123456789</p>
-                        <p>+1(000)987654321</p>
+                        <p>+971 507569914</p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -179,8 +180,7 @@
                         <div class="fothead">
                             <h6>Write</h6>
                         </div>
-                        <p>contact@Archo.com</p>
-                        <p>Username@website.com</p>
+                        <p>info@studio1creators.com</p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -188,8 +188,10 @@
                         <div class="fothead">
                             <h6>Visit</h6>
                         </div>
-                        <p>B17 Princess Road, London, Greater London
-                            NW18JR, United Kingdom</p>
+                        <p>Studio1 Creators<br>Technical Services LLC</p>
+                        <p>Office No. 1502<br> City Tower-2,</p>
+                        <p>Sheikh Zayed Road, <br>Dubai, UAE.</p>
+                        <p>P.O.Box - 15473</p>
                     </div>
                 </div>
             </div>

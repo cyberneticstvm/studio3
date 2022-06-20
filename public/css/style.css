@@ -1993,6 +1993,9 @@ body {
   transition: all .4s; }
   .services .item-bx:last-of-type {
     border-right: 1px solid #eee; }
+  .services .item-bx:hover {
+    background-color: #fff !important;
+    color: #000 !important; }
     .services .item-bx:hover p {
       color: #000; }
       .services .item-bx:hover h6 {

@@ -62,34 +62,4 @@
         </div>
     </div>
 </section>
-<section class="services section-padding bg-dark">
-    <div class="container">
-        <div class="section-head text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-8 col-sm-10">
-                    <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
-                    <h4 class="wow flipInX" data-wow-delay=".5s">Our Services</h4>
-                </div>
-            </div>
-        </div>
-        <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">INTERIOR<br>DESIGNING</h6>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">ARCHITECTURAL<br>DESIGNING</h6>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">LANDSCAPE<br>DESIGNING</h6>
-            </div>
-
-            <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">FITOUT<br>SERVICES</h6>
-            </div>
-        </div>
-    </div>
-</section>
 @endsection

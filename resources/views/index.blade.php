@@ -176,19 +176,27 @@
         <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s">
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">INTERIOR<br>DESIGNING</h6>
+                <h6 class="mb-20 text-center">INTERIOR<br>DESIGNING</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">ARCHITECTURAL<br>DESIGNING</h6>
+                <h6 class="mb-20 text-center">ARCHITECTURAL<br>DESIGNING</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">LANDSCAPE<br>DESIGNING</h6>
+                <h6 class="mb-20 text-center">LANDSCAPE<br>DESIGNING</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
 
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
-                <h6 class="mb-20 text-white text-center">FITOUT<br>SERVICES</h6>
+                <h6 class="mb-20 text-center">FITOUT<br>SERVICES</h6>
+                <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
+                <a href="#0" class="more mt-30">Read More</a>
             </div>
         </div>
     </div>
@@ -602,7 +610,7 @@
     <div class="contact-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.986111620221!2d55.087222972550585!3d24.98780158178485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f127c765bfb7b%3A0xac18e62af75d21df!2s!5e0!3m2!1sen!2sin!4v1655724052368!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-    <div class="bg-img" data-background="img/002.webp"></div>
+    <div class="bg-img" data-background="{{ '/img/002.webp' }}"></div>
 </section>
 
 <!-- ==================== End contact ==================== -->

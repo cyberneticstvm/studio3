@@ -3891,9 +3891,9 @@ body {
 .dropdown-item{
   color: #fff;
 }
-.item-bx h6:hover{
+.item-bx:hover{
   animation: rotation 2s;
-  color: #000;
+  /*color: #000;*/
 }
 @keyframes rotation {
   from {

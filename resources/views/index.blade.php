@@ -196,7 +196,7 @@
             <div class="col-lg-3 col-md-6 item-bx bg-dark">
                 <h6 class="mb-20 text-center">FITOUT<br>SERVICES</h6>
                 <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                <a href="#0" class="more mt-30">Read More</a>
+                <a href="#0" class="more custom-font mt-30">Read More</a>
             </div>
         </div>
     </div>

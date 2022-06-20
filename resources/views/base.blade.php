@@ -158,12 +158,12 @@
                             <h6>Useful Links</h6>
                         </div>
                         <ul>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">About Us</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Interior Design</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Architectural</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Landscape</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Fitout Services</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Contact Us</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/about/">About Us</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/interior/">Interior Design</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/architectural/">Architectural</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/landscape/">Landscape</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/fitout/">Fitout Services</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/contact/">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

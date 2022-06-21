@@ -112,7 +112,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                    <div class="img bg-img wow imago" data-background="{{ '/img/exp01.JPG' }}">
+                    <div class="img bg-img wow imago" data-background="{{ '/img/exp03.jpg' }}">
                         <div class="since custom-font">
                             <span>Since</span>
                             <span>2020</span>
@@ -250,7 +250,7 @@
 
                 <!-- gallery item -->
                 <div class="items theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/09.webp' }}">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/01.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay"></div>
                         </a>
@@ -289,7 +289,7 @@
 
                 <!-- gallery item -->
                 <div class="items interior theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/04.webp' }}">
+                    <div class="item-img bg-img wow imago" data-background="{{ '/img/portfolio/mas/09.webp' }}">
                         <a href="#0">
                             <div class="item-img-overlay valign"></div>
                         </a>

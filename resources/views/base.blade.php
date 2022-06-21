@@ -71,7 +71,7 @@
 
             <!-- Logo -->
             <a class="logo" href="/">
-                <img src="{{ '/img/logo-white-small-1.png' }}" alt="logo">
+                <img src="{{ '/img/logo2.png' }}" alt="logo" width="150" height="50">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"

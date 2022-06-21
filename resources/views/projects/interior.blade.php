@@ -32,6 +32,15 @@
         </a>
         <a href="{{ '/img/slid/interiors/interior7.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/interiors/thumb7.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/interiors/interior3.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb3.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/interiors/interior8.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb8.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/interiors/interior9.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/interiors/thumb9.webp' }}" alt="" title="Project1">
         </a>   
     </div>
 </div>

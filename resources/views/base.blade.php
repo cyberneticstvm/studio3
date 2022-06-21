@@ -15,7 +15,7 @@
     <title>Studio1 Creators</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ '/img/favicon.ico' }}" />
+    <link rel="shortcut icon" href="{{ '/img/favicon.png' }}" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

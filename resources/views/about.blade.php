@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                    <div class="img bg-img wow imago" data-background="{{ '/img/exp.webp' }}">
+                    <div class="img bg-img wow imago" data-background="{{ '/img/exp02.jpg' }}">
                         <div class="since custom-font">
                             <span>Since</span>
                             <span>2020</span>

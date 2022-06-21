@@ -71,7 +71,7 @@
 
             <!-- Logo -->
             <a class="logo" href="/">
-                <img src="{{ '/img/logo2.png' }}" alt="logo" width="85%">
+                <img src="{{ '/img/logo3.png' }}" alt="logo">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -140,7 +140,7 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="{{ '/img/logo2.png' }}" alt="" width="85%">
+                                <img src="{{ '/img/logo3.png' }}" alt="">
                             </a>
                         </div>
                         <p>Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>

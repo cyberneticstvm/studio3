@@ -18,6 +18,12 @@
         <a href="{{ '/img/slid/fitout/fitout01.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/fitout/thumb001.webp' }}" alt="" title="Project1">
         </a>
+        <a href="{{ '/img/slid/fitout/fitout02.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/fitout/thumb002.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/fitout/fitout03.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/fitout/thumb003.webp' }}" alt="" title="Project1">
+        </a>
     </div>
 </div>
 @endsection

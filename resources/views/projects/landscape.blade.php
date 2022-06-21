@@ -18,6 +18,21 @@
         <a href="{{ '/img/slid/landscape/landscape01.webp' }}" class="big m-2" rel="rel1">
             <img src="{{ '/img/slid/landscape/thumb01.webp' }}" alt="" title="Project1">
         </a>
+        <a href="{{ '/img/slid/landscape/arch02.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/landscape/thumb02.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/landscape/arch06.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/landscape/thumb06.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/landscape/arch03.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/landscape/thumb03.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/landscape/arch04.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/landscape/thumb04.webp' }}" alt="" title="Project1">
+        </a>
+        <a href="{{ '/img/slid/landscape/arch08.webp' }}" class="big m-2" rel="rel1">
+            <img src="{{ '/img/slid/landscape/thumb08.webp' }}" alt="" title="Project1">
+        </a>
     </div>
 </div>
 @endsection

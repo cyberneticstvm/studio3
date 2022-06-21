@@ -33,7 +33,7 @@ $(function () {
         } else {
 
             navbar.removeClass("nav-scroll");
-            logo.attr('src', '/img/logo3.png');
+            logo.attr('src', '/img/logo3.PNG');
         }
     });
 
